@@ -1,5 +1,5 @@
 package demo_vehiculo;
-    public interface GPS {
+    public interface IGPS {
 
         void getCoordinates();
     }

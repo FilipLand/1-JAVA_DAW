@@ -1,6 +1,6 @@
 package demo_vehiculo;
 
-public class Coche extends Vehiculo implements Radio, VehiculoMotor{
+public class Coche extends Vehiculo implements IRadio, VehiculoMotor{
 
     public Coche(int nRuedas, int nAsientos, boolean tieneGps) {
         super(nRuedas, nAsientos);

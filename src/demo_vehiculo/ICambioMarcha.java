@@ -1,6 +1,6 @@
 package demo_vehiculo;
 
-public interface CabioMarcha {
+public interface ICambioMarcha {
 
     void cambiarMarcha (int marcha);
 

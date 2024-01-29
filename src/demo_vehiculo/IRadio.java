@@ -1,6 +1,6 @@
 package demo_vehiculo;
 
-public interface Radio {
+public interface IRadio {
     public void startRadio();
 
     public void stopRadio();

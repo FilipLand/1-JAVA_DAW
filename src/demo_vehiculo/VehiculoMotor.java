@@ -1,5 +1,5 @@
 package demo_vehiculo;
-public class VehiculoMotor extends Vehiculo implements Intermitente, CabioMarcha, IMotor  {
+public class VehiculoMotor extends Vehiculo implements Intermitente, ICambioMarcha, IMotor  {
     public VehiculoMotor(int nRuedas, int nAsientos) {
         super(nRuedas, nAsientos);
     }
