@@ -11,7 +11,9 @@ package demo_vehiculo;
 
         float getMaxVel();
 
-        void arrancar();
+        public default void arrancar(){
+
+        }
 
         void detener();
 
