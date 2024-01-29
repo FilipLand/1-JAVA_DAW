@@ -1,4 +1,4 @@
-package demo_vehiculo;
+package SegundoTrimestre.demo_vehiculo;
 
 public class Smartphone implements IGPS {
     @Override

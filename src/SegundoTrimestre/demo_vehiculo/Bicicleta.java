@@ -1,4 +1,4 @@
-package demo_vehiculo;
+package SegundoTrimestre.demo_vehiculo;
 
 public class Bicicleta extends Vehiculo implements ICambioMarcha {
     public Bicicleta(int nRuedas, int nAsientos) {

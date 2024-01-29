@@ -1,4 +1,4 @@
-package demo_vehiculo;
+package SegundoTrimestre.demo_vehiculo;
     public interface IMotor {
 
         public static boolean esMasRapido(IMotor vehiculoMotor, IMotor vehiculoMotor2) {
