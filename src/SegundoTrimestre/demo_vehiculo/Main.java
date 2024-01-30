@@ -9,7 +9,7 @@ public class Main {
 
             camion.acelerar();
             mio.acelerar();
-            /* Test */
+            /* No se si esta bien ni que estoy haciendo  */
 
         }
     }
