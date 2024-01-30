@@ -9,6 +9,7 @@ public class Main {
 
             camion.acelerar();
             mio.acelerar();
+            /* Test */
 
         }
     }

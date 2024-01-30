@@ -13,7 +13,7 @@ public class Bicicleta extends Vehiculo implements ICambioMarcha {
     @Override
     public void cambiarMarcha() {
     }
-    //hola mundo
+    /* Hdpm */
 }
 
 
