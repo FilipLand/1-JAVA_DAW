@@ -1904,3 +1904,9 @@ f
 6src/SegundoTrimestre/formas_geometricas/Triangulo.java,8\1\81cf5cd3daf4a83f87e16288dcfffb79f1b3c798
 l
 <src/SegundoTrimestre/formas_geometricas/FiguraAbstracta.java,c\1\c10a30e18cc05cf72d334eb15402842d31fb3561
+g
+7src/SegundoTrimestre/formas_geometricas/Rectangulo.java,c\c\cc38878df6b986b09560ae7a9f933292ff830456
+k
+;src/SegundoTrimestre/formas_geometricas/Trabajafiguras.java,f\9\f9788fe0012668ff30fa83118b6f29b810812faa
+c
+3src/SegundoTrimestre/formas_geometricas/Figura.java,3\e\3eee6245fb9498efe09f45bf273aa8d14f364790
