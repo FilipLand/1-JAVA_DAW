@@ -1902,3 +1902,5 @@ u
 Esrc/SegundoTrimestre/formas_geometricas/PruebaPolimorfismoFormas.java,3\4\34d8a2fc75daa32979e007a2f78809bbef43f7b6
 f
 6src/SegundoTrimestre/formas_geometricas/Triangulo.java,8\1\81cf5cd3daf4a83f87e16288dcfffb79f1b3c798
+l
+<src/SegundoTrimestre/formas_geometricas/FiguraAbstracta.java,c\1\c10a30e18cc05cf72d334eb15402842d31fb3561
