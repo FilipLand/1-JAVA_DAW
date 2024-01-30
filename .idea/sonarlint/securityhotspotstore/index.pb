@@ -1952,3 +1952,25 @@ Q.idea/sonarlint/securityhotspotstore/3/a/3a6edaa19b768031af6c9381400d36a19f99cb
 Q.idea/sonarlint/securityhotspotstore/3/e/3e7897739aed32db174e1baf0c9bbf624b731c88,7\2\726b45ae08ce1aa135cf0ae0a94f1310dea54f12
 Å
 Q.idea/sonarlint/securityhotspotstore/3/e/3e0fedcb751e5d84393a180d8d7148c850443632,c\f\cfaaedeffe11d6eced519c8a2630ef445ecd1e1a
+j
+:src/SegundoTrimestre/demo_vehiculo/OtroEjercicio/Test.java,a\6\a6acc8642e5f90b6591c767257ad3b486c18c07d
+N
+src/SegundoTrimestre/Main.java,4\2\4273e9af43c2a6421e2ab8cbd7c81429afdb5006
+X
+(src/SegundoTrimestre/IVehiculoMotor.java,c\3\c34195308a54d63d2aa6b02eee683a046da6a799
+N
+src/SegundoTrimestre/Moto.java,6\f\6fbc826cffcf848aa02f55a2b49804b2bf6a3abe
+O
+src/SegundoTrimestre/Coche.java,d\b\db493bbf5fc4431dc8fc5b7eb69339b4c1f1c8a1
+\
+,src/SegundoTrimestre/OtroEjercicio/Test.java,5\4\5494fc2ce3652da407af3d8cb104c5af13e9bc8c
+R
+"src/SegundoTrimestre/Vehiculo.java,a\8\a867b46649ec49f6aa78b49e1067387d83c859d4
+P
+ src/SegundoTrimestre/IRadio.java,7\c\7c9cb67c087e7deb0f77f7e48d7c64a43ce6dee0
+V
+&src/SegundoTrimestre/Intermitente.java,4\d\4d0612ed4aa21e9478296771658fe7f3b4865b96
+Q
+!src/SegundoTrimestre/Starter.java,3\d\3d6366ddf3a90e8e7ac0cc1808766f22dd762fdc
+T
+$src/SegundoTrimestre/Smartphone.java,7\4\74fbf51d7fd8fd21a3ef6bcc213ede5e2771eae9
