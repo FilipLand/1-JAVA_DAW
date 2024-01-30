@@ -1,5 +1,7 @@
 package SegundoTrimestre.formas_geometricas;
 
-public class Circulo {
-
+public abstract class Circulo extends Figura {
+    public Circulo(String nombreFigura) {
+        super(nombreFigura);
+    }
 }
