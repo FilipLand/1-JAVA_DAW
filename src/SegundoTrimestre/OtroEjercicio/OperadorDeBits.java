@@ -29,8 +29,6 @@ package SegundoTrimestre.OtroEjercicio;
             System.out.println("Resultado de num2 >> 1: " + resultRightShift + " (" + Integer.toBinaryString(resultRightShift) + ")");
 
             StringBuilder s = new StringBuilder();
-
-
         }
     }
 

@@ -17,5 +17,7 @@ public abstract class FiguraAbstracta {
 
     public String toString() {
             return this.nombre + " con area " + this.area();
-        }
+    }
+    public abstract double perimetro();
+
 }

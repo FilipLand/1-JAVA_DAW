@@ -1,5 +1,4 @@
 package SegundoTrimestre.formas_geometricas;
-
 public class Rectangulo extends FiguraAbstracta {
     private final double base;
     private final double altura;
@@ -17,14 +16,7 @@ public class Rectangulo extends FiguraAbstracta {
         return this.base * this.altura;
     }
 
-    @Override
-    public double calcularArea() {
-        return 0;
-    }
-
-    /**
-     * Returns a representative string of the square.
-     */
+    /*  Returns a representative string of the square. */
     @Override
     public String toString() {
         return "Rectangulo{" +
@@ -32,5 +24,9 @@ public class Rectangulo extends FiguraAbstracta {
                 ", altura=" + altura +
                 ", area=" + area() +
                 '}';
+    }
+
+    @Override
+    public double perimetro() {
     }
 }

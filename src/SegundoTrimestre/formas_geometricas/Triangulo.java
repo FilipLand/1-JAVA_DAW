@@ -8,12 +8,6 @@ public class Triangulo extends FiguraAbstracta {
         this.base = base;
         this.altura = altura;
     }
-
-    @Override
-    public double area() {
-        return 0;
-    }
-
     @Override
     public double calcularArea() {
         return (base * altura) / 2;
